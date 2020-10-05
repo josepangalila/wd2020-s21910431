@@ -1,0 +1,14 @@
+img {
+    display: block;
+    background-color: lightskyblue;
+    padding: 20px;
+    border: 10px solid red;
+    margin: 0px;
+}
+
+div.gambar1 {
+    margin-left: 180px;
+}
+div.gambar2 {
+    margin-left: 360px;
+}
