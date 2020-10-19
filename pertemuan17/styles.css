@@ -1,0 +1,14 @@
+p.px {
+    font-size: 40px;
+    font-family: 'Anton', sans-serif;
+}
+p.em {
+    font-size: 2em;
+    font-family: 'Lobster', cursive;
+
+}
+p.rem {
+    font-size: 1rem;
+    font-family: 'Sansita Swashed', cursive;
+}
+
